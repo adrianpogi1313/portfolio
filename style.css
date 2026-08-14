@@ -475,13 +475,9 @@ ul{
 
 
 .project-image{
-
     display:flex;
-
     justify-content:flex-end;
-
-    transform: translateX(-40px);
-
+    transform:translateX(-35px);
 }
 
 .browser-frame{
@@ -1532,7 +1528,7 @@ ul{
 
     width:100%;
 
-    max-width:380px;
+    max-width:340px;
 
     position:relative;
 
