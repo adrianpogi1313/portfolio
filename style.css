@@ -1516,12 +1516,9 @@ ul{
 }
 
 .about-image{
-
     display:flex;
-
     justify-content:center;
-    transform: translateX(-55px);
-
+    transform: translateX(-50px);
 }
 
 .about-image-frame{
