@@ -1522,6 +1522,7 @@ ul{
     display:flex;
 
     justify-content:center;
+    transform: translateX(-25px);
 
 }
 
